@@ -33,4 +33,5 @@ User Prompt → Planner Agent → Code Generation Agents → Frontend + Backend 
 
 ---
 
-## 📂 Generated Structure
+## 👨‍💻 Author
+**Deepali Lanjewar**
