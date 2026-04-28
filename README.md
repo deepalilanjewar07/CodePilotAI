@@ -1,4 +1,4 @@
-# AI Multi-Agent Code Generation System 🤖 (Work in Progress)
+# AI Multi-Agent Code Generation System 🤖 
 
 ## 📌 Overview
 This project is an AI-powered multi-agent system that generates web applications from natural language prompts using LLMs. It uses LangChain and Groq models to automatically generate frontend (HTML, CSS, JavaScript), backend APIs, and database structure.
